@@ -2,7 +2,7 @@
 https://tinyurl.com/AngularSummit2018
 
 ## Angular PWA
-* Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/ProgressiveWebApp.pdf
+* Slides: https://github.com/christinakayastha/AngularSummit2018
 * Vanilla Progressive Web App: 
   * https://github.com/christinakayastha/ProgressiveWebAppTutorial
   * https://tinyurl.com/PWATutorial
@@ -19,7 +19,10 @@ https://tinyurl.com/AngularSummit2018
   * https://codelabs.developers.google.com/codelabs/push-notifications/index.html
 
 ## Angular Material
-* Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/UserInterfaces.pdf
+* Slides: https://github.com/christinakayastha/AngularSummit2018
+* Adding to an existing Angular Project: 
+  * https://github.com/christinakayastha/MusicalBox
+  * https://tinyurl.com/ngMusicBox
 * Robo4Hire:
   * JS: https://github.com/christinakayastha/Robo4Hire-js
   * Angular: https://github.com/christinakayastha/Robo4Hire-angular
@@ -40,7 +43,7 @@ https://tinyurl.com/AngularSummit2018
 
 
 ## AngularFire
-* Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/Firebase.pdf
+* Slides: https://github.com/christinakayastha/AngularSummit2018
 * Vanilla Firebase App: 
   * https://github.com/christinakayastha/FirebaseTutorial
 * Angular Firebase App:
@@ -58,7 +61,7 @@ https://tinyurl.com/AngularSummit2018
     * http://rxmarbles.com/
 
 ## Angular Redux
-* Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/Redux.pdf
+* Slides: https://github.com/christinakayastha/AngularSummit2018
 * Vanilla Redux App: 
   * https://github.com/christinakayastha/StudioReduxExample
   * https://tinyurl.com/studioRedux
